@@ -45,7 +45,7 @@ string[] ArraySimbol(string[] input, int n)
 
 Console.Clear();
 
-string[] ArrayInput() // МЕтод ввода строк символов через консоль
+string[] ArrayInput() // МЕтод ввода строк символов через консоль и получения массива
 {
     Console.Write("Введите значения через пробел: ");
     return Console.ReadLine().Split(new char[] {' '}, StringSplitOptions.RemoveEmptyEntries);
