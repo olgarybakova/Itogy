@@ -9,4 +9,4 @@ _Написать программу, которая из имеющегося �
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
-[Kod](Exampl\Program.cs) | [Блок схема](Exampl\diagram.drawio.png)
+[Kod](Program.cs) | [Блок схема](diagram.drawio.png)
